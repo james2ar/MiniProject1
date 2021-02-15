@@ -1,7 +1,7 @@
 /*
 Mini Project 1
 Group #_: Adam James, Anthony Hale, Grady Lipp, Najee Robinson
-Date: 2/9/2021
+Date: 2/15/2021
 */
 
 import java.util.Scanner;
